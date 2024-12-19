@@ -1,0 +1,105 @@
+body{
+    background-color:antiquewhite 
+}
+
+
+
+.box{
+    display:flex;
+    justify-content:space-between;
+}
+
+h1{
+    text-align: center;
+    height: 250px;
+    margin:0 auto;
+
+}
+
+.screen{
+    width: 90%;
+    background-color:gold;
+    text-align: center;
+    padding: 2rem;
+    border: 1px solid black;
+}
+.container{
+    width: 50%;
+    height:900px; 
+    border-radius: 100px;
+    padding: 0px;
+    text-align: center;    
+    border: 6px solid black;
+    background-color:white;
+    margin:0 auto;
+    
+}
+
+
+.box{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 0% 2.1rem;
+}
+
+
+ .button{
+ margin:20px;
+ }
+
+ .row{
+ margin: 20px;
+ 
+}
+
+
+ .first{
+display: flex;
+justify-content: center;
+}
+
+.second{
+ display: flex;
+justify-content: center;
+}
+.third{
+display: flex;
+justify-content: center;
+}
+.four{
+display: flex;
+justify-content: center;
+} 
+ 
+
+
+
+button{
+margin: 2.9vh; 
+padding: 39px;
+}
+
+.F{
+    display: flex;
+    justify-content: center;
+    width: 30px;
+    background-color:red
+}  
+
+
+
+.operation{
+    background-color:gold;
+}
+
+
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin:7px
+}
+   
+
+
